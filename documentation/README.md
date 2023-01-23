@@ -1,0 +1,1 @@
+This directory can be used as a output directory while creating JavaDoc.
